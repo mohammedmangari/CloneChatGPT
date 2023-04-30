@@ -1,2 +1,2 @@
 # Clone_ChatGPT
-<img src="./asstes/screen.png">
+<img src="assets/screen.png"/>
